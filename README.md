@@ -4,6 +4,7 @@
 * https://www.youtube.com/@CodeOpinion
 * https://www.youtube.com/@CodeAesthetic
 * https://www.youtube.com/@Fireship
+* https://www.youtube.com/@beyondfireship
 * https://www.youtube.com/@CodingWithLewis
 * https://www.youtube.com/@bienadam
 * https://www.youtube.com/@WebDevSimplified
