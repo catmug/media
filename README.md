@@ -13,6 +13,7 @@
 * https://www.youtube.com/@markrichards5014
 * https://www.youtube.com/@SpringSourceDev
 * https://www.youtube.com/@CodingWithJohn
+* https://www.youtube.com/@ScalingPostgres
 
 ----------------------------------------------
 * https://www.youtube.com/@techquickie
