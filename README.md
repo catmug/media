@@ -1,6 +1,7 @@
 # media
 
 ## Youtube
+* https://www.youtube.com/@ThePrimeTimeagen
 * https://www.youtube.com/@CodeOpinion
 * https://www.youtube.com/@CodeAesthetic
 * https://www.youtube.com/@Fireship
